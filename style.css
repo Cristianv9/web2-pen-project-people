@@ -1,10 +1,13 @@
-/* Diagnostic Styling */
-*{
-  border: 1px dotted gray;
-}
 
-
-/* temp background color */
 body{
     background: lightblue;
+    display: grid;
+  place-items: center;
+  height: 100vh;
+  }
+
+  #confetti{
+    background: lightgoldenrodyellow;
+    padding: 1em;
+    border-radius: .75em;  
   }
