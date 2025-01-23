@@ -1,0 +1,10 @@
+/* Diagnostic Styling */
+*{
+  border: 1px dotted gray;
+}
+
+
+/* temp background color */
+body{
+    background: lightblue;
+  }
